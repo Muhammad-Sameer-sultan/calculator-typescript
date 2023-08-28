@@ -1,5 +1,4 @@
-function sum(num1, num2) {
-    let sum = num1 + num2;
-    return sum;
+function Add(num1, num2) {
+    return num1 + num2;
 }
-export { sum };
+export { Add };
